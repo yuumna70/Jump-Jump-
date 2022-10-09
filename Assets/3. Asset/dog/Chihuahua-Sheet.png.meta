@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: 2184957f30ec2db4182fd2b116255cc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2743298786825197348
+    second: Chihuahua-Sheet_0
+  - first:
+      213: -7295782728321602833
+    second: Chihuahua-Sheet_1
+  - first:
+      213: -4763122321223018070
+    second: Chihuahua-Sheet_2
+  - first:
+      213: -4078163179251475275
+    second: Chihuahua-Sheet_3
+  - first:
+      213: -2471862691776224569
+    second: Chihuahua-Sheet_4
+  - first:
+      213: -5258499328105711390
+    second: Chihuahua-Sheet_5
+  - first:
+      213: -4792915471959144303
+    second: Chihuahua-Sheet_6
+  - first:
+      213: -7701225083934944527
+    second: Chihuahua-Sheet_7
+  - first:
+      213: 2026290785117329703
+    second: Chihuahua-Sheet_8
+  - first:
+      213: -7314672409258107326
+    second: Chihuahua-Sheet_9
+  - first:
+      213: 2527757876500614621
+    second: Chihuahua-Sheet_10
+  - first:
+      213: 4912806360772572533
+    second: Chihuahua-Sheet_11
+  - first:
+      213: 3561265430695460827
+    second: Chihuahua-Sheet_12
+  - first:
+      213: 2833502915801939376
+    second: Chihuahua-Sheet_13
+  - first:
+      213: 64518576043425453
+    second: Chihuahua-Sheet_14
+  - first:
+      213: -8010632285320818602
+    second: Chihuahua-Sheet_15
+  - first:
+      213: -2389744228616056020
+    second: Chihuahua-Sheet_16
+  - first:
+      213: 1322668599173128861
+    second: Chihuahua-Sheet_17
+  - first:
+      213: -6953984966906394419
+    second: Chihuahua-Sheet_18
+  - first:
+      213: 6696565065764627417
+    second: Chihuahua-Sheet_19
+  - first:
+      213: -8703656731661394607
+    second: Chihuahua-Sheet_20
+  - first:
+      213: -5650615267773346879
+    second: Chihuahua-Sheet_21
+  - first:
+      213: -1577720135745498716
+    second: Chihuahua-Sheet_22
+  - first:
+      213: 5052790356113631820
+    second: Chihuahua-Sheet_23
+  - first:
+      213: 2207938468579189865
+    second: Chihuahua-Sheet_24
+  - first:
+      213: 6772259346934465507
+    second: Chihuahua-Sheet_25
+  - first:
+      213: -5718590634541855823
+    second: Chihuahua-Sheet_26
+  - first:
+      213: -8295311003513892228
+    second: Chihuahua-Sheet_27
+  - first:
+      213: 8793051856045453698
+    second: Chihuahua-Sheet_28
+  - first:
+      213: -8618121502301094802
+    second: Chihuahua-Sheet_29
+  - first:
+      213: 5823503637269228585
+    second: Chihuahua-Sheet_30
+  - first:
+      213: 1124168893942995502
+    second: Chihuahua-Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 358
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8268ab948dde9d0800000000000000
+      internalID: -2743298786825197348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 358
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feae5f7634c20ca90800000000000000
+      internalID: -7295782728321602833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 358
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa994c52c7df5edb0800000000000000
+      internalID: -4763122321223018070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 358
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc53ac02347767c0800000000000000
+      internalID: -4078163179251475275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 306
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c223237afd22bdd0800000000000000
+      internalID: -2471862691776224569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 306
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8f0a8c8be0607b0800000000000000
+      internalID: -5258499328105711390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 306
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198c66fa5c42c7db0800000000000000
+      internalID: -4792915471959144303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 306
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2dab8c690cf1590800000000000000
+      internalID: -7701225083934944527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 258
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d09abbb4de1c10800000000000000
+      internalID: 2026290785117329703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ed1d5d2301d7a90800000000000000
+      internalID: -7314672409258107326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 258
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddc3036566641320800000000000000
+      internalID: 2527757876500614621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 257
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575f0202b5bcd2440800000000000000
+      internalID: 4912806360772572533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 206
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf3b737a082c6130800000000000000
+      internalID: 3561265430695460827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 206
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd786ea3ef925720800000000000000
+      internalID: 2833502915801939376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 206
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae7b769d4735e000800000000000000
+      internalID: 64518576043425453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 206
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6505d2fe06484d090800000000000000
+      internalID: -8010632285320818602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 156
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23dc45194ce5ded0800000000000000
+      internalID: -2389744228616056020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 156
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92274945101b5210800000000000000
+      internalID: 1322668599173128861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 156
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc84322348b7e7f90800000000000000
+      internalID: -6953984966906394419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 156
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3e038827afeec50800000000000000
+      internalID: 6696565065764627417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 108
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d92660156663780800000000000000
+      internalID: -8703656731661394607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb88f92a5bf491b0800000000000000
+      internalID: -5650615267773346879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 108
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a198e945efca1ae0800000000000000
+      internalID: -1577720135745498716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 107
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a2cacde0e1f1640800000000000000
+      internalID: 5052790356113631820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 58
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9642599c65c24ae10800000000000000
+      internalID: 2207938468579189865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 58
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e309dcbef5ebfd50800000000000000
+      internalID: 6772259346934465507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 58
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbc144cd1c73a0b0800000000000000
+      internalID: -5718590634541855823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 58
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c725a2eb79221ec80800000000000000
+      internalID: -8295311003513892228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281bd235312370a70800000000000000
+      internalID: 8793051856045453698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cff288728466880800000000000000
+      internalID: -8618121502301094802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ca0af24bd31d050800000000000000
+      internalID: 5823503637269228585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chihuahua-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a140727a9d99f00800000000000000
+      internalID: 1124168893942995502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
